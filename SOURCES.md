@@ -17,6 +17,21 @@ Update IDs identify source versions, not six independent confirmations. U01–U0
 
 Update #5 was read by following Update #4's official link after intermittent failures on direct retrieval. This source-access observation is not evidence of a correction or retraction. The proof announcement has not been independently cryptographically verified by this project.
 
+## Attribution audit references
+
+The [attribution audit](attribution/README.md) uses a local A-series key. Reused sources are mapped below; two references are added. Its registers distinguish source claims from checks performed by this project.
+
+| Audit ID | Source | Existing key / access |
+|---|---|---|
+| A01 | [FBI attribution](https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack) | B03 |
+| A02 | [Chainalysis investigation](https://www.chainalysis.com/blog/binance-exploit-latest-findings-and-response/) | B06 |
+| A03 | [BitOK investigation](https://bitok.org/blog/binance-hack-bitok-investigation) | new attribution reference |
+| A04 | [Elliptic Binance analysis](https://www.elliptic.co/insights/binance-largest-hack-in-history/) | B05 / U05 |
+| A05 | [TRM investigation](https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history) | B04 |
+| A06 | [Elliptic Bitget assessment](https://www.elliptic.co/insights/bitget-attack-pushes-suspected-north-korea-crypto-heists-over-1-billion-in-2026/) | new attribution reference; indexed primary text |
+
+A03 supplies a specific shared-recipient claim for future replay. A06 was read through indexed primary-publisher text; direct retrieval returned 404 during this review. Neither source changes a publisher claim into independently reproduced evidence. See the [verification plan](attribution/verification-plan.md).
+
 ## Dossier register
 
 ### B01 — Binance Announcement

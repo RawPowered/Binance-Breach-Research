@@ -29,6 +29,10 @@ The November 2 targeted source check is recorded in [SOURCES.md](SOURCES.md). It
 
 Added four references and two updated versions of existing references, with a separate source register, nine timeline/observation records, six financial observations and seven claim follow-ups. The original research directory and graphic bytes were preserved. Company-reported proof completion and partial service restoration remain distinguished from independent verification and full restoration.
 
+## Attribution audit
+
+The November 2 attribution section reviews official conclusions and published operational links, with separate evidence, dependency and alternative-explanation registers. It adds two references and an explicit verification plan. It does not claim to reproduce the reported flows or prove the full state-affiliation chain. The original research snapshot and graphics remain unchanged.
+
 ## Integrity files
 
 - [Original evidence manifest](research/visual-manifest.json): source IDs, capture dates, bytes and SHA-256 hashes.

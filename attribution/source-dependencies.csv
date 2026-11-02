@@ -1,0 +1,8 @@
+dependency_id,source_id,depends_on_or_credits,relationship,disclosure_status,audit_implication
+D01,A01,USSS and IRS-CI,Named investigative partners,collaboration_disclosed,Partner participation is not three independently published cases
+D02,A01,Underlying intelligence,Evidence behind official conclusion,not_fully_disclosed,Do not invent a public operator-identification chain
+D03,A02,Earlier Bitget attribution,Prior actor label used in commingling assessment,premise_disclosed,Evaluate the earlier attribution separately
+D04,A03,Bitget published address list,Reported provenance of source-side Bitcoin labels,reported_dependency_not_checked,Original address-list record still needed for reproduction
+D05,A04,ZachXBT discovery,Credits first report of Binance–Bitget link,credit_disclosed,Original post not independently inspected in this audit
+D06,A05,On-chain and off-chain intelligence,Stated assessment basis,partial_disclosure,Independence from other firms cannot be assumed or excluded
+D07,A06,Specter; Bitget statements; prior incident labels,Inputs named in earlier attribution account,indexed_primary_account,Track these origins instead of treating the later label as self-proving

@@ -1,5 +1,11 @@
 # Research changes
 
+## November 2, 2026 — attribution audit
+
+Added a featured attribution section, evidence register, source-dependency map, alternative-explanation checks and verification plan. Added BitOK and the earlier Elliptic Bitget assessment as references. No transaction-flow replay or new operator identification is claimed.
+
+[Read the attribution audit](attribution/README.md).
+
 ## November 2, 2026 — evidence update
 
 - Added Binance Recovery Updates #4 and #5, Elliptic's separate laundering analysis and Maborak's reported technical reproduction.

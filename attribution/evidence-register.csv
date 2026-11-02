@@ -1,0 +1,8 @@
+evidence_id,source_ids,evidence_type,claim,project_status,supports,does_not_establish_or_needed
+E01,A01,official_attribution,FBI attributes the Binance theft to North Korea / TraderTraitor,official_statement_reviewed,Published conclusion verified as a statement,Underlying attribution intelligence not fully public
+E02,A02,published_fund_link,Chainalysis reports commingling with Bitget proceeds,publisher_claim_not_independently_replayed,Investigators report a financial connection,Need raw transfer and cross-chain mapping records
+E03,A03,specific_replay_candidate,Eight Bitget-linked and five Binance-linked payouts to one Ethereum recipient,publisher_claim_not_independently_replayed,Identifies a concrete flow claim to test,Need hashes; origin labels; custody classification; control evidence
+E04,A05,analyst_confidence,TRM attributes activity with high confidence using on-chain and off-chain intelligence,published_assessment_reviewed,Records stated analyst judgment,Cannot inspect full off-chain basis from article
+E05,A04,overlap_and_method_assessment,Elliptic reports operational overlaps and credits an earlier discovery,published_assessment_reviewed,Adds reported connections and provenance,Independence of shared labels and observations not established
+E06,A06,prior_case_attribution,Elliptic assesses Bitget as highly likely DPRK-linked,indexed_primary_text_reviewed,Identifies uncertainty in an inherited premise,Direct retrieval returned 404; public technical basis incomplete
+E07,A04;A05,inference_limit,Similar tradecraft is supportive but not a unique identity proof,study_methodological_assessment,Defines a test of specificity,Requires comparison against other actors and independent identity evidence

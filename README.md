@@ -15,11 +15,23 @@ Binance reported roughly $6.3B in losses. The FBI's October 31 alert attributed 
 | Read | What it contains |
 |---|---|
 | [November 2 evidence update](updates/2026-11-02/README.md) | New citations, revised tracing, operational milestones and claim follow-up |
+| [North Korea attribution audit](attribution/README.md) | Published evidence, source dependencies, alternative explanations and verification gaps |
 | [Full research dossier](research/DOSSIER.md) | Attack mechanics, attribution, financial accounting, response and open questions |
 | [Four-graphic guide](GALLERY.md) | The cover, reported compromise points, attack sequence and asset-choice explanation, with captions and citations |
 | [Annotated source evidence](research/VISUAL-EVIDENCE.md) | Three source-page screenshots and three original data/concept graphics |
-| [Sources](SOURCES.md) | Sixteen original dossier resources, four added references, two revised versions and supplementary visual references |
+| [Sources](SOURCES.md) | Original and follow-up citations, attribution references, source roles and access limits |
 | [Claim audit](research/claim-audit.csv) | Thirteen claims with status boundaries |
+
+## North Korea attribution: evidence and uncertainty
+
+**The FBI officially attributes the theft to North Korea's TraderTraitor activity.** [Read the official notice](https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack). Our [attribution audit](attribution/README.md) examines the supporting financial links, source independence and the evidence needed to connect wallets, operators and state affiliation.
+
+| What is established in this study | Verification boundary |
+|---|---|
+| The official attribution is published | The complete underlying intelligence is not public in the FBI alert |
+| Investigators report Binance–Bitget financial links | This project has not independently replayed those flows or established the operators' identities |
+
+Read the [evidence and uncertainty assessment](attribution/README.md), explore the [source-dependency map](attribution/source-dependencies.csv), or review the [alternative-explanation checks](attribution/alternative-explanations.csv). The audit identifies both support and possible failure points; it does not claim conclusive independent proof or assign unsupported percentages.
 
 ## The visual exploration
 
