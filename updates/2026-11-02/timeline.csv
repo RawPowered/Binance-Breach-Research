@@ -1,0 +1,10 @@
+record_id,date,time_or_window,time_role,event,status,source_ids,boundary
+UT01,2026-10-31,08:11 UTC,observation_cutoff,Elliptic reports 31 continuous hourly activity periods,investigator_report,U03,Earlier publication newly introduced; later section update has a separate 22:41 UTC cutoff
+UT02,2026-11-01,06:00–09:00 UTC,announced_window,Phase-one withdrawal restart window,company_target,U01,Not proof every listed pair was usable
+UT03,2026-11-01,06:00 UTC,reported_announcement_time,Elliptic records Bitcoin-led withdrawal reopening announcement,investigator_reports_company_announcement,U05,Not a withdrawal independently performed by this project
+UT04,2026-11-01,,publication_day,Binance reports 95 percent replacement coverage,company_report,U01,Replacement funding is not recovery of stolen assets
+UT05,2026-11-01,05:33 UTC,observation_window_end,Elliptic extended Tron transfer-count window ends,investigator_observation,U05,Window begins October 30 02:00 UTC
+UT06,2026-11-02,,publication_day,Binance says proof for October 31 00:00 UTC snapshot is complete,company_report_not_independently_verified,U02,Page displays 12:45 without explicit heading timezone
+UT07,2026-11-02,13:26 UTC,holdings_cutoff,Bitquery revised attacker-holdings observation,investigator_observation,U06,Not transaction-level reconciliation with other providers
+UT08,2026-11-03,,target_calendar_day,Next withdrawal phase planned,company_target,U02,Tomorrow relative to November 2 notice; completion not checked
+UT09,2026-11-04,,target_calendar_day,Expanded reserve snapshot planned,company_target,U02,Proof generation estimated separately at 40–50 hours; not completed evidence

@@ -4,7 +4,7 @@
 **Research snapshot:** October 31, 2026, America/Chicago.  
 **Incident date:** October 29, 2026 UTC.
 
-This edition publishes the existing case dossier and its structured research, plus the four finished glass-series graphics selected for public sharing. Research conclusions remain tied to the snapshot. The publication date is not a claim that restoration targets, reserve proof or recovery totals have since been verified.
+The initial edition published the case dossier and its structured research, plus four finished glass-series graphics. Those files retain the October 31 snapshot. A subsequent [November 2 evidence review](updates/2026-11-02/README.md) adds dated reports and source versions; it does not retroactively change that snapshot or claim independent reserve verification.
 
 ## Preservation
 
@@ -24,6 +24,10 @@ The public edition was assembled as a fresh repository containing only the selec
 ## Source availability
 
 The November 2 targeted source check is recorded in [SOURCES.md](SOURCES.md). It does not replace the original retrieval notes or amount to comprehensive revalidation. Later substantive updates should receive their own date and citations while preserving this snapshot.
+
+## November 2 evidence addendum
+
+Added four references and two updated versions of existing references, with a separate source register, nine timeline/observation records, six financial observations and seven claim follow-ups. The original research directory and graphic bytes were preserved. Company-reported proof completion and partial service restoration remain distinguished from independent verification and full restoration.
 
 ## Integrity files
 

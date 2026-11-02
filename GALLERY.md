@@ -1,6 +1,6 @@
 # Binance breach — four-graphic exploration
 
-**Snapshot: October 31, 2026 CDT.** These AI-assisted editorial graphics explain the cited research. They are separate from authentic [source screenshots](research/VISUAL-EVIDENCE.md). Source numbering is local to each graphic; use its companion notes to resolve the key.
+**Snapshot: October 31, 2026 CDT.** Later developments are documented in the [November 2 evidence update](updates/2026-11-02/README.md); the images retain their original dated content. These AI-assisted editorial graphics explain the cited research. They are separate from authentic [source screenshots](research/VISUAL-EVIDENCE.md). Source numbering is local to each graphic; use its companion notes to resolve the key.
 
 ## 1. Research cover
 

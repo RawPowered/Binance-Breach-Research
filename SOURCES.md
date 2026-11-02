@@ -2,6 +2,21 @@
 
 The dossier source IDs below preserve the October 31, 2026 research snapshot. Company statements, official attribution, investigator reconstructions and independent reporting have different roles. The [CSV register](research/source-register.csv) retains detailed claim locators and original access notes.
 
+## November 2 evidence review
+
+Update IDs identify source versions, not six independent confirmations. U01–U04 add four references; U05 and U06 revisit existing B05 and B07. The [dated addendum](updates/2026-11-02/README.md) and [update register](updates/2026-11-02/source-register.csv) record claims, section cutoffs and access limits. The original register below remains the October 31 record.
+
+| Update ID | Reference / version | Role and limit |
+|---|---|---|
+| U01 | [Recovery Update #4: Withdrawals Resume in Phases](https://www.binance.com/en-GB/support/announcement/security-incident-recovery-update-4-withdrawals-resume-in-phases-2026-11-01-73911fb819b240f88b88256bdd318eda) — 2026-11-01; page heading 04:08, timezone not stated in heading | owner statement; Official page text read; its opening is prospective, not proof every withdrawal completed |
+| U02 | [Recovery Update #5: October 31st PoR Snapshot Now Fully Verifiable](https://www.binance.com/en-GB/support/announcement/security-incident-recovery-update-5-october-31st-por-snapshot-now-fully-verifiable-by-users-as-zk-proof-generated-2026-11-02-185bd9a4717f44088b3be70287b8237f) — 2026-11-02; page heading 12:45, timezone not stated in heading | owner statement; Official text read via link from Update #4; direct access intermittent; verifier and reserve data not independently checked |
+| U03 | [The Binance hack is laundering on autopilot](https://www.elliptic.co/insights/the-binance-hack-is-laundering-on-autopilot/) — 2026-10-31; key-point cutoff 08:11 UTC; later update 22:41 UTC | original investigator analysis; New to this bibliography, not a post-snapshot publication; section cutoffs differ; provider findings not replayed |
+| U04 | [Binance incomplete RCA: signed delegation, unexplained access](https://www.maborak.com/blog/binance-incident-root-cause-evidence) — 2026-10-30; updated 2026-11-01 14:00 UTC | third party technical reproduction; Author-reported reproduction; not repeated here; historical state depends on one provider; no internal forensic access |
+| U05 | [The largest theft in history: North Korea behind the Binance hack](https://www.elliptic.co/insights/binance-largest-hack-in-history/) — Last updated 2026-11-01 08:00 UTC; section cutoffs vary | original investigator analysis; Mutable page; distinguish header update, observation windows and retrieval date; no independent chain replay |
+| U06 | [Binance hot-wallet investigation](https://bitquery.io/investigations/binance-hack) — 2026-11-02; holdings cutoff 13:26 UTC | original investigator analysis; Provider scope and labels differ from Elliptic; stronger laptop/key wording is not adopted as established fact |
+
+Update #5 was read by following Update #4's official link after intermittent failures on direct retrieval. This source-access observation is not evidence of a correction or retraction. The proof announcement has not been independently cryptographically verified by this project.
+
 ## Dossier register
 
 ### B01 — Binance Announcement
@@ -141,4 +156,6 @@ The dossier source IDs below preserve the October 31, 2026 research snapshot. Co
 
 On November 2, the FBI alert remained readable in a targeted check. The two archived Binance Square statement links returned page shells in the same check; an alternate support link redirected to an announcement index. Original links and original access dates are preserved. A changed or unavailable page does not by itself establish a correction or retraction. The dated source screenshots and source-specific limits remain part of the record. This was a targeted availability check, not a complete update of incident status.
 
-[Overview](README.md) · [Dossier](research/DOSSIER.md)
+A subsequent November 2 review retrieved the newer support notices and revised investigator pages recorded above. The earlier access note remains a record of that narrower check.
+
+[Overview](README.md) · [November 2 update](updates/2026-11-02/README.md) · [Dossier](research/DOSSIER.md)

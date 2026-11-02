@@ -1,0 +1,7 @@
+record_id,measure,value,unit,source_cutoff,source_ids,boundary
+UF01,replacement_coverage,95,percent,2026-11-01; publication day,U01,Company estimate; not stolen assets recovered
+UF02,remaining_replacement_shortfall,5,percent,2026-11-02; publication day,U02,"Company estimate for less-liquid tokens; complements coverage, not additional losses"
+UF03,attacker_retained_value,3000000000,USD,2026-11-02 13:26 UTC,U06,Approximate Bitquery nine-chain scope; valuation assumptions not recomputed
+UF04,attacker_ETH_quantity,539862,ETH,2026-11-02 13:26 UTC,U06,Part of retained holdings; not extra value to add to UF03
+UF05,frozen_or_seized_value,2850000000,USD,about 2026-11-01 05:50 UTC,U05,Elliptic estimate excludes Aave collateral position; not returned-to-victim funds
+UF06,attacker_native_asset_value,3250000000,USD,November 1 version; holdings paragraph has no separate exact timestamp,U05,Approximate Elliptic category; not directly comparable with UF03

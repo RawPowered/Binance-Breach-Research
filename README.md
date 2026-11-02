@@ -4,7 +4,9 @@
 
 **Independent research by RawPowered on the October 29, 2026 Binance hot-wallet theft and its attribution to North Korea's TraderTraitor activity.**
 
-**Research snapshot: October 31, 2026, America/Chicago. Public edition: November 2, 2026.** This is a dated case study. The public-edition date does not mean the incident's operational status has been reverified through November 2.
+**Original snapshot: October 31, 2026. Latest evidence review: November 2, 2026 (America/Chicago).** The [November 2 update](updates/2026-11-02/README.md) adds four citations and two revised source versions while preserving the original dossier and graphics.
+
+**Latest reported developments:** phased withdrawal reopening, 95% replacement coverage and completion of a reserve proof for ten assets. These are attributed reports, not this project's independent verification of reserves or complete service restoration. [Evidence and limitations](updates/2026-11-02/README.md).
 
 Binance reported roughly $6.3B in losses. The FBI's October 31 alert attributed the theft to North Korea's TraderTraitor activity. The internal intrusion route remained unresolved in the reviewed evidence. [Company statement](https://www.binance.com/en/square/post/382966352206379) · [FBI attribution](https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack)
 
@@ -12,10 +14,11 @@ Binance reported roughly $6.3B in losses. The FBI's October 31 alert attributed 
 
 | Read | What it contains |
 |---|---|
+| [November 2 evidence update](updates/2026-11-02/README.md) | New citations, revised tracing, operational milestones and claim follow-up |
 | [Full research dossier](research/DOSSIER.md) | Attack mechanics, attribution, financial accounting, response and open questions |
 | [Four-graphic guide](GALLERY.md) | The cover, reported compromise points, attack sequence and asset-choice explanation, with captions and citations |
 | [Annotated source evidence](research/VISUAL-EVIDENCE.md) | Three source-page screenshots and three original data/concept graphics |
-| [Sources](SOURCES.md) | Sixteen dossier resources, source roles, access limits and supplementary visual references |
+| [Sources](SOURCES.md) | Sixteen original dossier resources, four added references, two revised versions and supplementary visual references |
 | [Claim audit](research/claim-audit.csv) | Thirteen claims with status boundaries |
 
 ## The visual exploration
@@ -45,7 +48,7 @@ The supporting analysis and citations are in the [dossier](research/DOSSIER.md).
 | [Claim audit](research/claim-audit.csv) | 13 claim assessments |
 | [Source register](research/source-register.csv) | 16 resources |
 
-Future commitments in the timeline remain targets in this snapshot. They should not be read as verified completed events.
+Future commitments in the original timeline remain targets in that snapshot. Later observations and milestone reports are recorded separately in the [update datasets](updates/2026-11-02/README.md#read-the-update-data).
 
 ## Scope and provenance
 

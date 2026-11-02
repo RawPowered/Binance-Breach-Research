@@ -1,0 +1,8 @@
+update_claim_id,original_claim_id,claim,assessment,source_ids,boundary
+UC01,C07,95 percent of stolen assets recovered from attackers,unsupported_equivalence,U01;U02,"Company reports replacement coverage, not restitution"
+UC02,C10,All withdrawal services fully restored,not_established,U01;U02;U05,Phased reopening reported; another phase remains planned
+UC03,C11,Proof for October 31 snapshot available,company_reports_completed,U02,Project has not executed verifier or audited reserves
+UC04,C02,Laptop explains the complete attack,still_not_established,U04,Missing path between endpoint access and wallet-authority signatures
+UC05,C03,Valid signatures prove private keys never escaped,unsupported,U04,Recovered signatures do not identify signing interface or exclude extraction
+UC06,C08,Automation establishes AI involvement,still_unproven,U03;U05,"Script-like retries are an investigator assessment, not proof excluding all AI use"
+UC07,C06,Frozen or seized means returned to Binance,still_not_established,U05,Control restriction and restitution remain separate
