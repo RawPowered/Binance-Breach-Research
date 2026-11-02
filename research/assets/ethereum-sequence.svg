@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="432pt" viewBox="0 0 864 432" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-31T20:11:49.428229</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.5, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 432 
+L 864 432 
+L 864 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 77.76 315.36 
+L 812.16 315.36 
+L 812.16 108 
+L 77.76 108 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m8fce5e8976" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m8fce5e8976" x="137.360697" y="315.36" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="137.360697" y="329.198594" transform="rotate(-0 137.360697 329.198594)">20:30</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m8fce5e8976" x="224.595413" y="315.36" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="224.595413" y="329.198594" transform="rotate(-0 224.595413 329.198594)">21:00</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m8fce5e8976" x="311.83013" y="315.36" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="311.83013" y="329.198594" transform="rotate(-0 311.83013 329.198594)">21:30</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m8fce5e8976" x="399.064846" y="315.36" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="399.064846" y="329.198594" transform="rotate(-0 399.064846 329.198594)">22:00</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m8fce5e8976" x="486.299563" y="315.36" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="486.299563" y="329.198594" transform="rotate(-0 486.299563 329.198594)">22:30</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m8fce5e8976" x="573.534279" y="315.36" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="573.534279" y="329.198594" transform="rotate(-0 573.534279 329.198594)">23:00</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m8fce5e8976" x="660.768996" y="315.36" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="660.768996" y="329.198594" transform="rotate(-0 660.768996 329.198594)">23:30</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m8fce5e8976" x="748.003712" y="315.36" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="748.003712" y="329.198594" transform="rotate(-0 748.003712 329.198594)">00:00</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="line2d_9">
+    <path d="M 111.141818 211.68 
+L 778.778182 211.68 
+" clip-path="url(#pec0b501783)" style="fill: none; stroke: #cad5e3; stroke-width: 5; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m0a8367d3fd" d="M 0 5.477226 
+C 1.452577 5.477226 2.845856 4.900111 3.872983 3.872983 
+C 4.900111 2.845856 5.477226 1.452577 5.477226 0 
+C 5.477226 -1.452577 4.900111 -2.845856 3.872983 -3.872983 
+C 2.845856 -4.900111 1.452577 -5.477226 0 -5.477226 
+C -1.452577 -5.477226 -2.845856 -4.900111 -3.872983 -3.872983 
+C -4.900111 -2.845856 -5.477226 -1.452577 -5.477226 0 
+C -5.477226 1.452577 -4.900111 2.845856 -3.872983 3.872983 
+C -2.845856 4.900111 -1.452577 5.477226 0 5.477226 
+z
+" style="stroke: #2563eb"/>
+    </defs>
+    <g clip-path="url(#pec0b501783)">
+     <use xlink:href="#m0a8367d3fd" x="111.141818" y="211.68" style="fill: #2563eb; stroke: #2563eb"/>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 162.30132 160.362478 
+Q 137.428822 185.311802 112.556323 210.261126 
+" style="fill: none; stroke: #536277; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #13243b" x="111.141818" y="154.656" transform="rotate(-0 111.141818 154.656)">20:20:59 · Delegation</text>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#pec0b501783)">
+     <use xlink:href="#m0a8367d3fd" x="121.028419" y="211.68" style="fill: #2563eb; stroke: #2563eb"/>
+    </g>
+   </g>
+   <g id="patch_4">
+    <path d="M 121.028419 261.534962 
+Q 121.028419 237.607075 121.028419 213.679189 
+" style="fill: none; stroke: #536277; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #13243b" x="121.028419" y="273.888" transform="rotate(-0 121.028419 273.888)">20:24:23 · Initial sweep</text>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#pec0b501783)">
+     <use xlink:href="#m0a8367d3fd" x="736.372417" y="211.68" style="fill: #2563eb; stroke: #2563eb"/>
+    </g>
+   </g>
+   <g id="patch_5">
+    <path d="M 736.372417 160.940101 
+Q 736.372417 185.311295 736.372417 209.682488 
+" style="fill: none; stroke: #536277; stroke-linecap: round"/>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #13243b" x="736.372417" y="154.656" transform="rotate(-0 736.372417 154.656)">23:56 · Trace-window end</text>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#pec0b501783)">
+     <use xlink:href="#m0a8367d3fd" x="778.778182" y="211.68" style="fill: #2563eb; stroke: #2563eb"/>
+    </g>
+   </g>
+   <g id="patch_6">
+    <path d="M 714.151741 262.297496 
+Q 745.67705 237.605865 777.20236 212.914234 
+" style="fill: none; stroke: #536277; stroke-linecap: round"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #13243b" x="778.778182" y="273.888" transform="rotate(-0 778.778182 273.888)">00:10:35 · Delegation reset</text>
+   </g>
+  </g>
+  <g id="text_13">
+   <text style="font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #13243b" x="60.48" y="37.648594" transform="rotate(-0 60.48 37.648594)">Ethereum sequence | Minutes mattered</text>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536277" x="60.48" y="60.48" transform="rotate(-0 60.48 60.48)">Original research timeline · Analyst-reported times · UTC, October 29–30, 2026</text>
+  </g>
+  <g id="text_15">
+   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #13243b" x="60.48" y="362.88" transform="rotate(-0 60.48 362.88)">1  Delegation preceded the initial sweep by 3 minutes 24 seconds.</text>
+  </g>
+  <g id="text_16">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536277" x="60.48" y="388.8" transform="rotate(-0 60.48 388.8)">2  Reset is not full platform recovery; the trace-window end is provider-specific.</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536277" x="60.48" y="412.56" transform="rotate(-0 60.48 412.56)">Sources: Hacken B09 and Bitquery B07; timeline.csv T03, T04, T08, T09. No independent chain replay.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pec0b501783">
+   <rect x="77.76" y="108" width="734.4" height="207.36"/>
+  </clipPath>
+ </defs>
+</svg>

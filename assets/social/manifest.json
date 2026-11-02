@@ -1,0 +1,31 @@
+{
+  "research_snapshot": "2026-10-31",
+  "public_edition_date": "2026-11-02",
+  "type": "AI-assisted editorial graphics; not source screenshots",
+  "assets": [
+    {
+      "path": "assets/social/cover.png",
+      "bytes": 2009716,
+      "sha256": "3b8f52a355cd168fb79031151d3651f86dbc493facad798b8a7c2fb547fa61d3",
+      "notes": "GALLERY.md"
+    },
+    {
+      "path": "assets/social/compromise-points.png",
+      "bytes": 2095685,
+      "sha256": "ce95515b30e5c2e16b1089d000a97cc51e80a86186261ed12e872de7bcfd53c3",
+      "notes": "visuals/compromise-points.md"
+    },
+    {
+      "path": "assets/social/attack-mechanics.png",
+      "bytes": 2062995,
+      "sha256": "bf207db17efbfe91325821535dd2a822814676d7575eff0e108cb548b47fef5b",
+      "notes": "visuals/attack-mechanics.md"
+    },
+    {
+      "path": "assets/social/asset-choice.png",
+      "bytes": 2195691,
+      "sha256": "ddf00aeba822b9819345a25e7c0a0858963fa771e66ab5d63c1e9f0c0831765d",
+      "notes": "visuals/asset-choice.md"
+    }
+  ]
+}

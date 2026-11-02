@@ -1,0 +1,173 @@
+{
+  "research_snapshot_date": "2026-10-31",
+  "user_timezone": "America/Chicago",
+  "capture_method": "Browser Use screenshot API; JPEG viewport capture",
+  "raw_screenshot_policy": "Unchanged screenshot bytes; annotations only in Markdown captions",
+  "assets": [
+    {
+      "name": "fbi-attribution.jpg",
+      "sha": "0abce31e2fc44e8f6842066b95c2bc5547f4f91e",
+      "bytes": 104288,
+      "sha256": "804ab90b86a66c4d00d8876d18bdd90f9ba7fc9859e6fafc7b40406884ef0d10",
+      "type": "source_screenshot",
+      "path": "assets/fbi-attribution.jpg",
+      "source_ids": [
+        "B03"
+      ],
+      "source_url": "https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack",
+      "timestamp_utc": "2026-11-01T01:10:25.989765Z",
+      "timestamp_role": "capture_file_saved",
+      "full_page": false,
+      "pixels_modified_after_capture": false,
+      "annotation_location": "VISUAL-EVIDENCE.md"
+    },
+    {
+      "name": "binance-replenishment-post.jpg",
+      "sha": "b09dc95266bc35722fd5822b689d0ff77d8389c8",
+      "bytes": 104356,
+      "sha256": "7110abd05f85ef2594c17afc49c433b5e90713b7eae1a869032d57d89188dc60",
+      "type": "source_screenshot",
+      "path": "assets/binance-replenishment-post.jpg",
+      "source_ids": [
+        "B02"
+      ],
+      "source_url": "https://www.binance.com/en/square/post/383244329941551",
+      "timestamp_utc": "2026-11-01T01:10:40.214734Z",
+      "timestamp_role": "capture_file_saved",
+      "full_page": false,
+      "pixels_modified_after_capture": false,
+      "annotation_location": "VISUAL-EVIDENCE.md"
+    },
+    {
+      "name": "binance-funding-detail.jpg",
+      "sha": "17bb93e21519db1ece21fd5b22898acbaa1addb0",
+      "bytes": 129863,
+      "sha256": "246c7f9053d50818da031bb8a58d1ebd92e9faae1d03b36676c6c5b8c8d86761",
+      "type": "source_screenshot",
+      "path": "assets/binance-funding-detail.jpg",
+      "source_ids": [
+        "B02"
+      ],
+      "source_url": "https://www.binance.com/en/square/post/383244329941551",
+      "timestamp_utc": "2026-11-01T01:10:48.636724Z",
+      "timestamp_role": "capture_file_saved",
+      "full_page": false,
+      "pixels_modified_after_capture": false,
+      "annotation_location": "VISUAL-EVIDENCE.md"
+    },
+    {
+      "name": "reported-amounts.png",
+      "sha": "f89ff0e1a9158a7b20523d8e6bc4a1d07dc16a3f",
+      "bytes": 126307,
+      "sha256": "e5ca8c2a94e15bae67e7f92d1cfa50bad8faa38995a7c32323265e92dbf05f6e",
+      "type": "original_graphic",
+      "path": "assets/reported-amounts.png",
+      "source_ids": [
+        "B01",
+        "B04",
+        "B05",
+        "B06",
+        "B07"
+      ],
+      "source_url": null,
+      "timestamp_utc": "2026-11-01T01:11:49Z",
+      "timestamp_role": "graphic_generated",
+      "full_page": false,
+      "pixels_modified_after_capture": null,
+      "annotation_location": "graphic and VISUAL-EVIDENCE.md"
+    },
+    {
+      "name": "reported-amounts.svg",
+      "sha": "01ca5bf6e0e6c0273fff4138e1a4bc03443c17af",
+      "bytes": 22786,
+      "sha256": "8a430f1f2450b9b01a61dc2a048899e8726d91dd9d73f9b4b1954ad2ad1be534",
+      "type": "original_graphic",
+      "path": "assets/reported-amounts.svg",
+      "source_ids": [
+        "B01",
+        "B04",
+        "B05",
+        "B06",
+        "B07"
+      ],
+      "source_url": null,
+      "timestamp_utc": "2026-11-01T01:11:49Z",
+      "timestamp_role": "graphic_generated",
+      "full_page": false,
+      "pixels_modified_after_capture": null,
+      "annotation_location": "graphic and VISUAL-EVIDENCE.md"
+    },
+    {
+      "name": "ethereum-sequence.png",
+      "sha": "79bd3e9ab8611737b97a8758c8e779a78e19d69f",
+      "bytes": 93866,
+      "sha256": "125dcd237fb2d26d99f0cfcedbd6771f72a903a618e7721090544ab23acf744b",
+      "type": "original_graphic",
+      "path": "assets/ethereum-sequence.png",
+      "source_ids": [
+        "B07",
+        "B09"
+      ],
+      "source_url": null,
+      "timestamp_utc": "2026-11-01T01:11:49Z",
+      "timestamp_role": "graphic_generated",
+      "full_page": false,
+      "pixels_modified_after_capture": null,
+      "annotation_location": "graphic and VISUAL-EVIDENCE.md"
+    },
+    {
+      "name": "ethereum-sequence.svg",
+      "sha": "c726393c7499a30f2f74c8d9e019d21da5a171e0",
+      "bytes": 9323,
+      "sha256": "55aae26ccef462072c1973ea61a6cc98e752bb5a029e1e84f375377a004743e3",
+      "type": "original_graphic",
+      "path": "assets/ethereum-sequence.svg",
+      "source_ids": [
+        "B07",
+        "B09"
+      ],
+      "source_url": null,
+      "timestamp_utc": "2026-11-01T01:11:49Z",
+      "timestamp_role": "graphic_generated",
+      "full_page": false,
+      "pixels_modified_after_capture": null,
+      "annotation_location": "graphic and VISUAL-EVIDENCE.md"
+    },
+    {
+      "name": "three-ledgers.png",
+      "sha": "2a36fe41f093fc1d2f8abadd15dfd2b791fdeab5",
+      "bytes": 102148,
+      "sha256": "89ace5e75b6171093df6f559af0027f974a8d2bef6be4fb4d7da2a7c83b4630e",
+      "type": "original_graphic",
+      "path": "assets/three-ledgers.png",
+      "source_ids": [
+        "B02",
+        "B13"
+      ],
+      "source_url": null,
+      "timestamp_utc": "2026-11-01T01:11:49Z",
+      "timestamp_role": "graphic_generated",
+      "full_page": false,
+      "pixels_modified_after_capture": null,
+      "annotation_location": "graphic and VISUAL-EVIDENCE.md"
+    },
+    {
+      "name": "three-ledgers.svg",
+      "sha": "c3d6c1e693cf543b347ee6acef13ed5e476c2789",
+      "bytes": 6266,
+      "sha256": "ee3c73842629b9ddc0e6f09e9eec7d9e43082c2a60a90bb79248242c8e5ee33c",
+      "type": "original_graphic",
+      "path": "assets/three-ledgers.svg",
+      "source_ids": [
+        "B02",
+        "B13"
+      ],
+      "source_url": null,
+      "timestamp_utc": "2026-11-01T01:11:49Z",
+      "timestamp_role": "graphic_generated",
+      "full_page": false,
+      "pixels_modified_after_capture": null,
+      "annotation_location": "graphic and VISUAL-EVIDENCE.md"
+    }
+  ]
+}

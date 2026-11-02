@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="432pt" viewBox="0 0 864 432" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-31T20:11:49.614620</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.5, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 432 
+L 864 432 
+L 864 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 130.32 296.8848 
+L 311.67 296.8848 
+Q 318.366 296.8848 318.366 290.232 
+L 318.366 140.544 
+Q 318.366 133.8912 311.67 133.8912 
+L 130.32 133.8912 
+Q 123.624 133.8912 123.624 140.544 
+L 123.624 290.232 
+Q 123.624 296.8848 130.32 296.8848 
+z
+" clip-path="url(#p5b9d0a4a54)" style="fill: #f4f7fb; stroke: #2563eb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 353.52 296.8848 
+L 534.87 296.8848 
+Q 541.566 296.8848 541.566 290.232 
+L 541.566 140.544 
+Q 541.566 133.8912 534.87 133.8912 
+L 353.52 133.8912 
+Q 346.824 133.8912 346.824 140.544 
+L 346.824 290.232 
+Q 346.824 296.8848 353.52 296.8848 
+z
+" clip-path="url(#p5b9d0a4a54)" style="fill: #f4f7fb; stroke: #0f766e; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 576.72 296.8848 
+L 758.07 296.8848 
+Q 764.766 296.8848 764.766 290.232 
+L 764.766 140.544 
+Q 764.766 133.8912 758.07 133.8912 
+L 576.72 133.8912 
+Q 570.024 133.8912 570.024 140.544 
+L 570.024 290.232 
+Q 570.024 296.8848 576.72 296.8848 
+z
+" clip-path="url(#p5b9d0a4a54)" style="fill: #f4f7fb; stroke: #935b00; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #13243b" x="130.32" y="79.56" transform="rotate(-0 130.32 79.56)">Three different ledgers</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536277" x="130.32" y="107.28" transform="rotate(-0 130.32 107.28)">Original explanatory diagram · A recovery headline can describe different events</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2563eb" x="135.9" y="165.492" transform="rotate(-0 135.9 165.492)">THEFT</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #13243b" x="135.9" y="198.756" transform="rotate(-0 135.9 198.756)">Assets leave controlled wallets</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #13243b" x="135.9" y="229.248" transform="rotate(-0 135.9 229.248)">What moved, and when?</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #13243b" x="135.9" y="259.74" transform="rotate(-0 135.9 259.74)">Theft-time valuation</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0f766e" x="359.1" y="165.492" transform="rotate(-0 359.1 165.492)">FREEZE / RECOVERY</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #13243b" x="359.1" y="198.756" transform="rotate(-0 359.1 198.756)">Movement blocked; return pending</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #13243b" x="359.1" y="229.248" transform="rotate(-0 359.1 229.248)">Who controls the assets now?</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #13243b" x="359.1" y="259.74" transform="rotate(-0 359.1 259.74)">Legal / issuer steps may remain</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #935b00" x="582.3" y="165.492" transform="rotate(-0 582.3 165.492)">REPLENISHMENT</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #13243b" x="582.3" y="198.756" transform="rotate(-0 582.3 198.756)">Replacement assets are purchased</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #13243b" x="582.3" y="229.248" transform="rotate(-0 582.3 229.248)">Has backing been restored?</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #13243b" x="582.3" y="259.74" transform="rotate(-0 582.3 259.74)">Company funding + reserve checks</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #13243b" x="130.32" y="331.812" transform="rotate(-0 130.32 331.812)">Annotation: freezing stolen tokens and buying replacements can happen in parallel.</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536277" x="130.32" y="360.6408" transform="rotate(-0 130.32 360.6408)">Sources: Binance B02 and CoinDesk B13. This conceptual diagram is not a transaction-level flow-of-funds reconciliation.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p5b9d0a4a54">
+   <rect x="108" y="51.84" width="669.6" height="332.64"/>
+  </clipPath>
+ </defs>
+</svg>
