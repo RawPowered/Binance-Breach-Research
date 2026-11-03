@@ -1,5 +1,9 @@
 # Research changes
 
+## November 3, 2026 — macOS malware assessment and defender resources
+
+Added [focused macOS/Homebrew assessment](updates/2026-11-03/MACOS-HOMEBREW-ASSESSMENT.md) and [14-record evidence register](updates/2026-11-03/macos-evidence-register.csv). Differentiated the June tampered installer from September's interview-based `pyenv` replacement; documented source independence, official Homebrew guidance, evidence limitations, read-only triage, and open forensic questions. No samples were executed and previous dated snapshots remain intact.
+
 ## November 3, 2026 — Homebrew and intrusion chronology
 
 Added Binance's preliminary internal attack account, a dated timeline, disclosed pyenv file operations, evidence boundaries and a 13-source register. Distinguished the June fake Homebrew event from September's malicious interview assignment and kept SANS's earlier MacSync indicators separate from confirmed Binance evidence. Updated overview and source navigation; preserved earlier research snapshots.
