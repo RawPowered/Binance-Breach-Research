@@ -2,6 +2,8 @@
 
 Prepared November 3, 2026. Public evidence concerning the fake macOS Homebrew installation and subsequent wallet theft. All precise times below are UTC.
 
+For a focused, evidence-led technical evaluation, see the [macOS/Homebrew malware assessment](MACOS-HOMEBREW-ASSESSMENT.md) and [14-row evidence register](macos-evidence-register.csv). These explain why June's fake installer and September's `pyenv` replacement must not be merged, provide official Homebrew source references, and identify safe, read-only triage options.
+
 This dated addendum extends the [October 31 dossier](../../research/DOSSIER.md) and [November 2 evidence update](../2026-11-02/README.md). Earlier snapshots retain their original contents. Coverage is of public sources located during this review; confidential forensic evidence is outside its scope.
 
 ## Evidence assessment
