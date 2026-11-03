@@ -21,3 +21,9 @@ https://www.elliptic.co/insights/the-binance-hack-is-laundering-on-autopilot/
 https://www.maborak.com/blog/binance-incident-root-cause-evidence
 https://bitok.org/blog/binance-hack-bitok-investigation
 https://www.elliptic.co/insights/bitget-attack-pushes-suspected-north-korea-crypto-heists-over-1-billion-in-2026/
+https://x.com/binance/status/2117626126214504729
+https://www.binance.com/es/blog/community/3229153443759566763
+https://isc.sans.edu/diary/32942
+https://brew.sh/
+https://github.com/Homebrew/install
+https://github.com/Homebrew/brew/security
