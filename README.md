@@ -14,6 +14,7 @@ Binance reported roughly $6.3B in losses. The FBI's October 31 alert attributed 
 
 | Read | What it contains |
 |---|---|
+| [macOS/Homebrew malware assessment](updates/2026-11-03/MACOS-HOMEBREW-ASSESSMENT.md) | June vs. September infection analysis, defensive triage, official Homebrew references and [machine-readable evidence register](updates/2026-11-03/macos-evidence-register.csv) |
 | [November 3 Homebrew and intrusion update](updates/2026-11-03/README.md) | Dated attack chronology, disclosed endpoint artifacts, 13 sources and verification gaps |
 | [November 2 evidence update](updates/2026-11-02/README.md) | New citations, revised tracing, operational milestones and claim follow-up |
 | [North Korea attribution audit](attribution/README.md) | Published evidence, source dependencies, alternative explanations and verification gaps |
