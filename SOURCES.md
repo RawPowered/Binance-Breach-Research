@@ -176,6 +176,10 @@ A subsequent November 2 review retrieved the newer support notices and revised i
 [Overview](README.md) · [November 2 update](updates/2026-11-02/README.md) · [Dossier](research/DOSSIER.md)
 
 
+## November 3, 2026 — focused macOS/Homebrew assessment
+
+The [technical assessment](updates/2026-11-03/MACOS-HOMEBREW-ASSESSMENT.md) and [evidence register](updates/2026-11-03/macos-evidence-register.csv) provide separate claim statuses and bounded defensive guidance. Additional authoritative references: [Homebrew homepage](https://brew.sh/), [official installer repository](https://github.com/Homebrew/install), and [Homebrew security policy](https://github.com/Homebrew/brew/security). The [Binance X announcement](https://x.com/binance/status/2117626126214504729) is listed as a publication pointer, not an independent source. No verified connection between the SANS MacSync campaign and Binance's June endpoint is claimed.
+
 ## November 3, 2026 — Homebrew and internal intrusion update
 
 The [dated addendum](updates/2026-11-03/README.md#source-register) records 13 sources with publication dates, access limits and evidence roles. Its source IDs S1–S13 are local to that addendum and do not replace earlier B/U identifiers.
