@@ -174,3 +174,15 @@ On November 2, the FBI alert remained readable in a targeted check. The two arch
 A subsequent November 2 review retrieved the newer support notices and revised investigator pages recorded above. The earlier access note remains a record of that narrower check.
 
 [Overview](README.md) · [November 2 update](updates/2026-11-02/README.md) · [Dossier](research/DOSSIER.md)
+
+
+## November 3, 2026 — Homebrew and internal intrusion update
+
+The [dated addendum](updates/2026-11-03/README.md#source-register) records 13 sources with publication dates, access limits and evidence roles. Its source IDs S1–S13 are local to that addendum and do not replace earlier B/U identifiers.
+
+- [Binance preliminary report, November 3](https://www.binance.com/es/blog/community/3229153443759566763): internal chronology and disclosed endpoint file operations; substantial indexed text inspected, direct page access failed.
+- [SANS fake Homebrew/MacSync analysis, May 1](https://isc.sans.edu/diary/Malicious%20Ad%20for%20Homebrew%20Leads%20to%20MacSync%20Stealer/32942): original analysis of a separate campaign. Its domains and hashes are not established Binance indicators.
+- [TRM laundering update, November 3](https://www.trmlabs.com/resources/blog/binance-hack-update-north-korea-launders-proceeds-through-self-minted-tokens-and-chained-bridges): follow-up tracing; stale FAQ attribution wording is flagged in the addendum.
+- [SafeDep attack-path analysis, November 3](https://safedep.io/blog/binance-hack-developer-supply-chain-attack-path): incident narrative derives from Binance; campaign comparison is analyst interpretation.
+
+The FBI and original blockchain investigations remain distinct evidence for official attribution and fund movements. No independent endpoint examination or transaction replay is claimed.

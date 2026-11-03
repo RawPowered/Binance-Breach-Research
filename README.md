@@ -4,16 +4,17 @@
 
 **Independent research by RawPowered on the October 29, 2026 Binance hot-wallet theft and its attribution to North Korea's TraderTraitor activity.**
 
-**Original snapshot: October 31, 2026. Latest evidence review: November 2, 2026 (America/Chicago).** The [November 2 update](updates/2026-11-02/README.md) adds four citations and two revised source versions while preserving the original dossier and graphics.
+**Original snapshot: October 31, 2026. Latest evidence review: November 3, 2026 (America/Chicago).** The [November 3 update](updates/2026-11-03/README.md) adds the fake Homebrew and interview chronology, endpoint artifacts, source register and unresolved forensic questions. Earlier snapshots and graphics are preserved.
 
-**Latest reported developments:** phased withdrawal reopening, 95% replacement coverage and completion of a reserve proof for ten assets. These are attributed reports, not this project's independent verification of reserves or complete service restoration. [Evidence and limitations](updates/2026-11-02/README.md).
+**Latest reported developments:** Binance's preliminary report describes a June tampered Homebrew installer, September fake interview assignment, October internal AI-tool pivot and access to wallet signing operations. The internal sequence remains a company-reported account pending independent review. [Timeline, sources and evidence limits](updates/2026-11-03/README.md).
 
-Binance reported roughly $6.3B in losses. The FBI's October 31 alert attributed the theft to North Korea's TraderTraitor activity. The internal intrusion route remained unresolved in the reviewed evidence. [Company statement](https://www.binance.com/en/square/post/382966352206379) · [FBI attribution](https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack)
+Binance reported roughly $6.3B in losses. The FBI's October 31 alert attributed the theft to North Korea's TraderTraitor activity. Binance has now published a preliminary internal intrusion account; this project has not independently verified its endpoint forensics. [Company statement](https://www.binance.com/en/square/post/382966352206379) · [FBI attribution](https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack)
 
 ## Start with the evidence
 
 | Read | What it contains |
 |---|---|
+| [November 3 Homebrew and intrusion update](updates/2026-11-03/README.md) | Dated attack chronology, disclosed endpoint artifacts, 13 sources and verification gaps |
 | [November 2 evidence update](updates/2026-11-02/README.md) | New citations, revised tracing, operational milestones and claim follow-up |
 | [North Korea attribution audit](attribution/README.md) | Published evidence, source dependencies, alternative explanations and verification gaps |
 | [Full research dossier](research/DOSSIER.md) | Attack mechanics, attribution, financial accounting, response and open questions |
@@ -44,12 +45,12 @@ Select a preview for the full-resolution graphic. The [visual guide](GALLERY.md)
 
 ## What the case distinguishes
 
-- **Company reports, investigator assessments and observed wallet actions.** Additional compromise points were reported but not identified in the reviewed statement; wallet outflows do not supply a complete internal intrusion map.
+- **Company reports, investigator assessments and observed wallet actions.** The November 3 company report supplies an internal intrusion account; wallet outflows independently establish a different part of the evidence. The earlier graphics preserve their original evidence cutoff.
 - **Theft, frozen assets, returned assets and replacement funding.** These are different accounting questions. Source estimates overlap and have different cutoffs.
 - **Issuer-controlled tokens and native coins.** Converting or borrowing changed which asset the attacker held and which controls applied; transaction history remained available for investigation.
-- **Automation and AI attribution.** Automation alone does not establish AI use. AI involvement remains unconfirmed in the archived evidence.
+- **Automation and AI attribution.** Automation alone does not establish AI use. The November 3 report describes abuse of an internal AI tool; its precise mechanism remains undisclosed. This does not establish attacker use of AI to automate laundering.
 
-The supporting analysis and citations are in the [dossier](research/DOSSIER.md). The graphics summarize that record and do not add new forensic findings.
+The supporting analysis and citations are in the [dossier](research/DOSSIER.md). The graphics summarize the October 31 record and do not add new forensic findings; consult the dated updates for later disclosures.
 
 ## Structured research
 
