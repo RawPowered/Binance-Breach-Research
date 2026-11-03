@@ -1,0 +1,15 @@
+id,event_or_claim,evidence_role,source_url,status,limitation
+M01,June modified Homebrew installer on Engineer A device,owner report,https://www.binance.com/es/blog/community/3229153443759566763,reported,No victim-specific URL hash or binary provided
+M02,June detection device replacement and credential rotation,owner report,https://www.binance.com/es/blog/community/3229153443759566763,reported,Remediation effectiveness not independently validated
+M03,September fake interview repository executed on Engineer B,owner report,https://www.binance.com/es/blog/community/3229153443759566763,reported,Repository and samples undisclosed
+M04,September pyenv replacement and zsh launch,owner report,https://www.binance.com/es/blog/community/3229153443759566763,reported,Published sizes and paths are not unique malware IOCs
+M05,October 20 AI tool pivot and token discovery,owner report,https://www.binance.com/es/blog/community/3229153443759566763,reported,Tool identity exploit mechanism and logs undisclosed
+M06,October 29 token-assisted container deployment,owner report,https://www.binance.com/es/blog/community/3229153443759566763,reported,Public endpoint-to-wallet forensic trace incomplete
+M07,Binance X original publication link,publisher reference,https://x.com/binance/status/2117626126214504729,linked,X direct fetch inaccessible; not an independent witness
+M08,April 30 fake Homebrew ad delivers MacSync,independent analogous campaign,https://isc.sans.edu/diary/32942,observed by SANS,No verified link to Binance June sample
+M09,Official Homebrew installer source,project documentation,https://brew.sh/,published,Shows current approved distribution not past victim behavior
+M10,Official Homebrew installer repository,project documentation,https://github.com/Homebrew/install,published,Does not prove June installer origin
+M11,Homebrew official security boundary,project policy,https://github.com/Homebrew/brew/security,published,Policy cannot rule out undisclosed vulnerabilities
+M12,North Korea TraderTraitor attribution,government alert,https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack,official attribution,Underlying intelligence and sample operator link undisclosed
+M13,Undetected malware equals confirmed zero-day exploit,analytical caution,https://www.binance.com/es/blog/community/3229153443759566763,not established,Vendor advisory CVE or reproduced exploit needed
+M14,Official Homebrew infrastructure was breached,analytical caution,https://github.com/Homebrew/brew/security,not established,Tampered third-party installer is not proof of official repository compromise
