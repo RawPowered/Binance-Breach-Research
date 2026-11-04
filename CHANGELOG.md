@@ -1,5 +1,11 @@
 # Research changes
 
+## November 4, 2026 — financial accounting assessment
+
+Added a main-overview accounting table and a detailed assessment separating compromised exposure, gross theft, freezes, original-fund returns, company replacement and attacker holdings. Incorporated Recovery Update #7 and Bitquery's November 4 holdings version. Labeled replacement-dollar arithmetic as conditional, documented source-date conflicts and preserved earlier snapshots. No exact audited expense ledger, complete current holdings reconciliation or independent chain replay is claimed.
+
+[Read the assessment](research/FINANCIAL-ACCOUNTING.md).
+
 ## November 3, 2026 — macOS malware assessment and defender resources
 
 Added [focused macOS/Homebrew assessment](updates/2026-11-03/MACOS-HOMEBREW-ASSESSMENT.md) and [14-record evidence register](updates/2026-11-03/macos-evidence-register.csv). Differentiated the June tampered installer from September's interview-based `pyenv` replacement; documented source independence, official Homebrew guidance, evidence limitations, read-only triage, and open forensic questions. No samples were executed and previous dated snapshots remain intact.

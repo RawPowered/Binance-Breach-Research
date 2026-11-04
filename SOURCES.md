@@ -190,3 +190,8 @@ The [dated addendum](updates/2026-11-03/README.md#source-register) records 13 so
 - [SafeDep attack-path analysis, November 3](https://safedep.io/blog/binance-hack-developer-supply-chain-attack-path): incident narrative derives from Binance; campaign comparison is analyst interpretation.
 
 The FBI and original blockchain investigations remain distinct evidence for official attribution and fund movements. No independent endpoint examination or transaction replay is claimed.
+
+
+## November 4, 2026 — financial accounting review
+
+The [financial assessment](research/FINANCIAL-ACCOUNTING.md#source-register-and-date-conflicts) uses local F1–F6 identifiers for source versions and accounting roles. It adds [Recovery Update #7](https://www.binance.com/en/square/post/384674399709556) (indexed official text; direct access failed), revisits [Binance's preliminary report](https://www.binance.bh/en/blog/community/3229153443759566763) (direct access succeeded in this review), and records [Bitquery's November 4 version](https://www.bitquery.io/investigations/binance-hack) with its holdings cutoff and exclusions. Earlier financial observations remain historical records. Source totals have not been independently reconciled.

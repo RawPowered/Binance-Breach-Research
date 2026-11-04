@@ -4,16 +4,33 @@
 
 **Independent research by RawPowered on the October 29, 2026 Binance hot-wallet theft and its attribution to North Korea's TraderTraitor activity.**
 
-**Original snapshot: October 31, 2026. Latest evidence review: November 3, 2026 (America/Chicago).** The [November 3 update](updates/2026-11-03/README.md) adds the fake Homebrew and interview chronology, endpoint artifacts, source register and unresolved forensic questions. Earlier snapshots and graphics are preserved.
+**Original snapshot: October 31, 2026. Latest evidence review: November 4, 2026 (America/Chicago).** The [financial accounting assessment](research/FINANCIAL-ACCOUNTING.md) separates theft, freezes, company replenishment and attacker holdings. The [November 3 update](updates/2026-11-03/README.md) documents the reported intrusion. Earlier snapshots and graphics are preserved.
 
 **Latest reported developments:** Binance's preliminary report describes a June tampered Homebrew installer, September fake interview assignment, October internal AI-tool pivot and access to wallet signing operations. The internal sequence remains a company-reported account pending independent review. [Timeline, sources and evidence limits](updates/2026-11-03/README.md).
 
 Binance reported roughly $6.3B in losses. The FBI's October 31 alert attributed the theft to North Korea's TraderTraitor activity. Binance has now published a preliminary internal intrusion account; this project has not independently verified its endpoint forensics. [Company statement](https://www.binance.com/en/square/post/382966352206379) · [FBI attribution](https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack)
 
+## How much was stolen, replaced and remains outstanding?
+
+**As of the November 4 review, public evidence does not establish exact reconciled totals.** These measures overlap and must not be added together.
+
+| Measure | Best supported figure | What it means |
+|---|---|---|
+| Compromised exposure | Full reachable amount **unknown** | Stolen value does not measure the full permissions exposure. |
+| Gross stolen / reported impact | **Approximately $6.34B** company baseline | Investigator estimates span $6.30B–$6.43B; scopes differ. [Company report](https://www.binance.bh/en/blog/community/3229153443759566763) |
+| Frozen / intercepted | **Approximately $2.85B**, reported Nov 3 | Not automatically returned to Binance. [Company report](https://www.binance.bh/en/blog/community/3229153443759566763) |
+| Replaced by company | **98% replenished**; more than 100% funding reserved | Company claim, not an audited payment ledger. [Recovery Update #7](https://www.binance.com/en/square/post/384674399709556) |
+| Dollar equivalent of replacement | **About $6.21B**, conditional calculation | 98% × $6.34B; **not an exact amount paid**. [Assumptions](research/FINANCIAL-ACCOUNTING.md#replacement-funding-the-dollar-calculation-is-conditional) |
+| Still in attacker-linked holdings | **About $3.1B** at 09:56 UTC Nov 4 | Bitquery estimate, mostly idle BTC/ETH; not all actively circulating. [Investigation](https://www.bitquery.io/investigations/binance-hack) |
+| Original stolen funds actually returned / exact cash-out | **Not established** | Freezes, replacement and return receipts are different evidence. |
+
+The **$3.49B** subtraction ($6.34B − $2.85B) is an unreconciled residual, not a live holdings estimate. Company replenishment does not reduce the attacker's stolen-funds balance. [Full assessment, source cutoffs and limitations](research/FINANCIAL-ACCOUNTING.md).
+
 ## Start with the evidence
 
 | Read | What it contains |
 |---|---|
+| [Financial accounting assessment](research/FINANCIAL-ACCOUNTING.md) | Stolen, frozen, replaced and attacker-retained amounts, calculation limits and source cutoffs |
 | [macOS/Homebrew malware assessment](updates/2026-11-03/MACOS-HOMEBREW-ASSESSMENT.md) | June vs. September infection analysis, defensive triage, official Homebrew references and [machine-readable evidence register](updates/2026-11-03/macos-evidence-register.csv) |
 | [November 3 Homebrew and intrusion update](updates/2026-11-03/README.md) | Dated attack chronology, disclosed endpoint artifacts, 13 sources and verification gaps |
 | [November 2 evidence update](updates/2026-11-02/README.md) | New citations, revised tracing, operational milestones and claim follow-up |
